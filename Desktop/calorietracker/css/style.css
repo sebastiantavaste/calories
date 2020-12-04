@@ -1,0 +1,50 @@
+
+
+#item-name {
+    display: block;
+    background-color:black;
+    color: #b12727;
+    border-radius: 15px;
+    margin: 1rem auto;
+    padding: 1rem;
+    text-transform: uppercase;
+}
+
+#add-btn  {
+    display: block;
+    background-color:black;
+    color: #b12727;
+    border-radius: 15px;
+    margin: 1rem auto;
+    padding: 1rem;
+    text-transform: uppercase;
+}
+#item-calories {
+    display: block;
+    background-color:black;
+    color: #b12727;
+    border-radius: 15px;
+    margin: 1rem auto;
+    padding: 1rem;
+    text-transform: uppercase;
+}
+#total-calories {
+    display: block;
+    background-color:black;
+    color: #b12727;
+    border-radius: 15px;
+    margin: 1rem auto;
+    padding: 1rem;
+    text-transform: uppercase;
+}
+
+.items
+{
+    display: block;
+    background-color:black;
+    color: #b12727;
+    border-radius: 15px;
+    margin: 1rem auto;
+    padding: 1rem;
+    text-transform: uppercase;
+}
